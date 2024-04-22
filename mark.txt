@@ -1,0 +1,6 @@
+chchanec chchanec mark: 
+====BigramFrePairs==== Mark: 2/2
+====BigramFreStripes==== Mark: 2/2
+====CorPairs==== Mark: 3/3
+====CORStripes==== Mark: 0/3
+====Total Mark: 7/10
